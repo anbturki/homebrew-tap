@@ -1,8 +1,8 @@
 cask "docsreader" do
-  version "0.9.1"
-  sha256 "58df08ea49b458fba8f847edd1322bb86e38417d9c012faadfdd4fa605de7c40"
+  version "0.9.2"
+  sha256 "b95a934eae1870f15ac424fc9f7b47b8eeef363443c75cd392c89e2a09cd63e4"
 
-  url "https://github.com/anbturki/docsreader/releases/download/v#{version}/DocsReader_0.9.1_universal.dmg"
+  url "https://github.com/anbturki/docsreader/releases/download/v#{version}/DocsReader_0.9.2_universal.dmg"
   name "DocsReader"
   desc "Markdown documentation reader"
   homepage "https://github.com/anbturki/docsreader"
